@@ -1,0 +1,5 @@
+C:\Users\christian\Documents\SnappySharp\SnappySharp\bin\Debug\SnappySharp.dll
+C:\Users\christian\Documents\SnappySharp\SnappySharp\bin\Debug\SnappySharp.pdb
+C:\Users\christian\Documents\SnappySharp\SnappySharp\obj\Debug\SnappySharp.csprojResolveAssemblyReference.cache
+C:\Users\christian\Documents\SnappySharp\SnappySharp\obj\Debug\SnappySharp.dll
+C:\Users\christian\Documents\SnappySharp\SnappySharp\obj\Debug\SnappySharp.pdb
